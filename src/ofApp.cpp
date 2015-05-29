@@ -1,3 +1,13 @@
+//
+//
+//Project created by Christopher Coleman
+//Commented and edited by William Karges
+//
+//
+//
+
+
+
 #include "ofApp.h"
 
 //--------------------------------------------------------------
